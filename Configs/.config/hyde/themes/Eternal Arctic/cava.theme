@@ -1,0 +1,17 @@
+$HOME/.config/cava/Wall-Dcol|${scrDir}/wallbashcava.sh
+
+[general]
+bars = 0
+bar_width = 3
+bar_spacing = 1
+
+[color]
+gradient = 1
+gradient_color_1 = '#8AC5D3' # Slightly lighter Frost
+gradient_color_2 = '#88C0D0' # Frost (original)
+gradient_color_3 = '#86BBCD' # Slightly darker Frost
+gradient_color_4 = '#84B7CB' # Gradually darker
+gradient_color_5 = '#82B3C8' # Slightly darker
+gradient_color_6 = '#80AFC5' # Even more gradual
+gradient_color_7 = '#7EAAC3' # Closing in on deeper tones
+gradient_color_8 = '#7DA7C0' # Slightly darker than the last, still Frost-like
